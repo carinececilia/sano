@@ -1,0 +1,6 @@
+{
+  "name": "Sano",
+  "description": "Sano - Aplicativo intuitivo de organização e saúde financeira com controle rápido de gastos, categorias claras e projeção inteligente do próximo mês.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
